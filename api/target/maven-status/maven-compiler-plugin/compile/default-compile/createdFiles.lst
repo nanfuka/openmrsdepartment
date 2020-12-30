@@ -1,0 +1,9 @@
+org\openmrs\module\department\api\DepartmentService.class
+org\openmrs\module\department\api\impl\DepartmentService.class
+org\openmrs\module\department\api\dao\HibernateDepartmentDAO.class
+org\openmrs\module\department\api\dao\DepartmentDAO.class
+org\openmrs\module\department\Department.class
+org\openmrs\module\department\api\impl\DepartmentServiceImpl.class
+org\openmrs\module\department\DepartmentActivator.class
+org\openmrs\module\department\DepartmentConfig.class
+org\openmrs\module\department\Item.class
